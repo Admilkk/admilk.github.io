@@ -1,1 +1,0 @@
-export const sidebarData = {"/":["",{"text":"插件指南","prefix":"插件指南/","collapsible":true,"children":[{"text":"插件的使用","prefix":"插件的使用/","collapsible":true,"children":["install","usage","config","removebackdoor"]},{"text":"功能","prefix":"功能/","collapsible":true,"children":["功能列表"]}]},{"text":"打赏","prefix":"打赏/","collapsible":true,"children":[""]}]};
