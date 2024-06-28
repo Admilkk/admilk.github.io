@@ -28,7 +28,7 @@ highlights:
       - title: 在反击插件根目录执行<code> pnpm run deleteHm </code> 以删除后门
 
   - header: 功能列表
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+    description: 我们拥有大量的无用功能
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
