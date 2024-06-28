@@ -2,6 +2,7 @@
   "name": "fanji-plugin-docs",
   "version": "1.0.0",
   "description": "反击插件文档",
+  "author": ["Admilk", "枫叶"],
   "license": "MIT",
   "type": "module",
   "scripts": {
