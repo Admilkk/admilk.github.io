@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://github.com/Admilkk/plugin-doc/sitemap.xml
+Sitemap: https://doc.admilk.top/sitemap.xml
